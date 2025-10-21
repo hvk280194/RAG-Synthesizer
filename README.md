@@ -1,9 +1,9 @@
-# 🧠 InsightBridge: AI Research Synthesizer (Free Hugging Face Edition)
+# Retrieval Augmentation Generation Synthesizer
 
 A cost-free Retrieval-Augmented Generation (RAG) application that lets you upload multiple technical PDFs and 
 generate cross-document insights using open-source models.
 
-## ✨ Features
+## Features
 - Multi-PDF ingestion & semantic chunking  
 - FAISS-based vector search  
 - Sentence-Transformer embeddings  
