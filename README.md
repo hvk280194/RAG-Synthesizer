@@ -22,7 +22,7 @@ pip install -r requirements.txt
 
 # 2️⃣ Get your own Hugging Face token
 # Visit https://huggingface.co/settings/tokens
-# Create a "Read" access token and copy it.
+# Create a "Read" and "Inference" access token and copy it.
 
 # 3️⃣ Add your token to a .env file in the project root
 echo HF_TOKEN=hf_your_token_here > .env
