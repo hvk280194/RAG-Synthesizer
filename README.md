@@ -6,13 +6,13 @@ It uses **LangChain**, **FAISS**, and **Hugging Face** models to provide accurat
 
 ## ✨ Features
 
-- 📚 **Multi-PDF ingestion** — Upload multiple research papers or reports.  
-- 🧩 **Semantic chunking** — Splits and indexes text using Sentence Transformers.  
-- ⚡ **FAISS vector search** — Fast, local retrieval of relevant document passages.  
-- 🧠 **Open-source LLMs** — Uses Hugging Face-hosted or local models (Mistral, Llama, TinyLlama, etc.).  
-- 💬 **LangChain-powered RAG** — Combine retrieval and generation in one step.  
-- 📊 **Streamlit UI with Plotly** — Simple, interactive visualization of sources and document contributions.  
-- 🔒 **No API costs or cloud lock-in** — Everything runs locally. 
+-  **Multi-PDF ingestion**: Upload multiple research papers or reports.  
+-  **Semantic chunking**: Splits and indexes text using Sentence Transformers.  
+-  **FAISS vector search**: Fast, local retrieval of relevant document passages.  
+-  **Open-source LLMs**: Uses Hugging Face-hosted or local models (Mistral, Llama, TinyLlama, etc.).  
+-  **LangChain-powered RAG**: Combine retrieval and generation in one step.  
+-  **Streamlit UI with Plotly**: Simple, interactive visualization of sources and document contributions.  
+-  **No API costs or cloud lock-in**: Everything runs locally. 
 
 ## 🚀 Run Locally
 
