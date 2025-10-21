@@ -28,4 +28,4 @@ pip install -r requirements.txt
 echo HF_TOKEN=hf_your_token_here > .env
 
 # 4️⃣ Run the Streamlit app
-streamlit run app.p
+streamlit run app.py
