@@ -1,0 +1,40 @@
+body {
+    background-color: #f8f9fb;
+}
+.main-title {
+    text-align: center;
+    font-size: 40px !important;
+    font-weight: 700;
+    color: #2B2B52;
+    margin-bottom: 0.3em;
+}
+.subtitle {
+    text-align: center;
+    color: #555;
+    font-size: 18px;
+    margin-bottom: 2em;
+}
+.uploaded-text {
+    font-size: 15px;
+    color: #444;
+}
+.block-container {
+    padding-top: 2rem;
+    padding-bottom: 1rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+.stButton>button {
+    background-color: #4F46E5;
+    color: rgb(170, 47, 47);
+    border-radius: 8px;
+    height: 3em;
+    width: 100%;
+    font-size: 16px;
+    font-weight: 600;
+    transition: 0.3s;
+}
+.stButton>button:hover {
+    background-color: #3730A3;
+    color: #fff;
+}
