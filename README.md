@@ -37,7 +37,6 @@ pip install -r requirements.txt
 # Create a "Read" and "Inference" access token and copy it.
 
 # 3️⃣ Add your token to a .env file in the project root
-echo HF_TOKEN=hf_your_token_here > .env
 
 # 4️⃣ Run the Streamlit app
 streamlit run app_main.py
