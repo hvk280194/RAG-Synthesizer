@@ -4,6 +4,18 @@ A cost-free Retrieval-Augmented Generation (RAG) application that lets you uploa
 generate cross-document insights using open-source models.
 It uses **LangChain**, **FAISS**, and **Hugging Face** models to provide accurate, structured answers — entirely without paid APIs.
 
+---
+
+## 🖼️ Preview
+
+
+<p align="center">
+  <img src="rag_demo.png" width="600">
+</p>
+
+---
+
+
 ## ✨ Features
 
 -  **Multi-PDF ingestion**: Upload multiple research papers or reports.  
